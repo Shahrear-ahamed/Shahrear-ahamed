@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://shahrear-ahamed.netlify.app/)
 
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-shahrear.netlify.app/) on going project.
+
 - 📫 How to reach me **dev.shahrear@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1K9Gvr6ccgDYKtz4DuhnUqp6D2G_jYCd1/view?usp=share_link)
