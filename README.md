@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahrear ahamed</h1>
-<h3 align="center">I am passionate Full-stack Developer (MERN).</h3>
+<h3 align="center">I am a passionate full-stack web developer (MERN & PERN).</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shahrear-ahamed" alt="shahrear-ahamed" /></a> </p>
 
@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-shahrear.netlify.app/) on going project.
 
-- 📫 How to reach me **dev.shahrear@gmail.com**
+- 📫 How to reach me **shahrear.ahamed01@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1K9Gvr6ccgDYKtz4DuhnUqp6D2G_jYCd1/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vowk989tLJpDkC7Tas_z2lFTTSYfyknA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
