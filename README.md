@@ -5,13 +5,9 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://shahrear-ahamed.netlify.app/)
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-shahrear.netlify.app/) on going project.
+- 👨‍💻 All of my projects are available at [Portfolio](https://shahrear.info/)
 
 - 📫 How to reach me **shahrear.ahamed01@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vowk989tLJpDkC7Tas_z2lFTTSYfyknA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
